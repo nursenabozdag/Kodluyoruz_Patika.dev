@@ -2,7 +2,7 @@
 
 ## Veri Bilimi 101
 
-[Patika.dev](https://www.patika.dev/) ve [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) tarafından verilen Veri Bilimi 101 Modülünde projeyi içermektedir.
+[Patika.dev](https://www.patika.dev/) ve [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) tarafından verilen Veri Bilimi 101 Modülünde ki projeyi içermektedir.
 
 Bizden istenilen projenin detayları;
 
@@ -14,4 +14,3 @@ Bizden istenilen projenin detayları;
 - Olabildiğince fazla model denemek ve metriğimizde en iyi yapanı seçmek
 
 
-Bu projede [rhiever](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)'ın yaptığı model incelenmiştir.
